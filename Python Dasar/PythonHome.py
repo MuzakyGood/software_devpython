@@ -1,6 +1,6 @@
 #Test Ultimate
 
-nama = ("Muzaky")
+nama = ("Zach")
 kelas = ("XTKJ3")
 sudah_nikah = ("Belum")
 
