@@ -1,4 +1,5 @@
 #Program shortcut simple
+#Catatan program ini hanya berfungsi untuk windows atau hanya untuk windows 10 
 
 import time
 import subprocess
