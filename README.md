@@ -2,6 +2,10 @@
 - Ini adalah projek yang saya buat jika saya memiliki waktu luang
 - Dan saya akan membuat projek baru jika saya sedang tidak sibuk
 ```
+warning: mungkin beberapa project hanya berlaku untuk pengguna windows
+```
+
+```
 print("Hello World")
 ```
 
