@@ -1,4 +1,5 @@
 import calendar
+print("Ini program kalender simpel saya")
 yy = 2023 # year
 mm = 10 #month
 
