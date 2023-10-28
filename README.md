@@ -5,10 +5,6 @@
 warning: mungkin beberapa project hanya berlaku untuk pengguna windows
 ```
 
-```
-print("Hello World")
-```
-
 # **1. Install folder on terminal / vscode**
 ```
 $ git clone url_link
