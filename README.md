@@ -2,7 +2,7 @@
 - Ini adalah projek yang saya buat jika saya memiliki waktu luang
 - Dan saya akan membuat projek baru jika saya sedang tidak sibuk
 ```
-print("Hello World")
+warning: mungkin beberapa project hanya berlaku untuk pengguna windows
 ```
 
 # **1. Install folder on terminal / vscode**
