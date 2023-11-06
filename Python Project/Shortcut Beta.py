@@ -3,6 +3,7 @@
 
 import time
 import subprocess
+import os
 
 main_text = "SELAMAT DATANG DI PROGRAM SHORTCUT BETA"
 width = 80
@@ -23,23 +24,38 @@ def main_menu():
     print("Menu Shortcut: ")
     print("1. CMD")
     print("2. This PC")
-    print("3. Documents")
-    print("4. Downloads")
-    print("5. Wifi Password Beta(Only see wifi history)")
-    print("6. Credits")
-    print("7. Exit")
+    print("3. Settings")
+    print("4. Documents")
+    print("5. Downloads")
+    print("6. Notepad")
+    print("7. Paint")
+    print("8. Calculator")
+    print("9. Wifi Password Beta(Only see wifi history)")
+    print("10. Credits")
+    print("11. Exit")
 
 def prompt_cmd():
     subprocess.call('start cmd /k "dir"', shell=True)
 
 def open_thispc():
     subprocess.Popen('explorer /select,shell:ThisPCFolder', shell=True)
+def open_settings():
+    subprocess.call('start cmd /c "start ms-settings:"', shell=True)
 
 def show_documents():
     subprocess.Popen('explorer C:/Users/Username/Downloads', shell=True)
 
 def show_downloads():
     subprocess.Popen('explorer shell:Downloads', shell=True)
+
+def show_notepad():
+    subprocess.call('start cmd /c "notepad"', shell=True)
+
+def show_paint():
+    subprocess.call('start cmd /c "mspaint"', shell=True)
+
+def show_calculator():
+    subprocess.call('start cmd /c "calc"', shell=True)
 
 def show_password():
     command = subprocess.check_output(['netsh', 'wlan', 'show', 'profiles']).decode('utf-8').split('\n')
@@ -69,14 +85,22 @@ while True:
     elif selection == "2":
         open_thispc()
     elif selection == "3":
-        show_documents()
+        open_settings()
     elif selection == "4":
-        show_downloads()
+        show_documents()
     elif selection == "5":
-        show_password()
+        show_downloads()
     elif selection == "6":
-        show_credits()
+        show_notepad()
     elif selection == "7":
+        show_paint()
+    elif selection == "8":
+        show_calculator()
+    elif selection == "9":
+        show_password()
+    elif selection == "10":
+        show_credits()
+    elif selection == "11":
         print("Terima kasih karena telah mencoba beta ini. Program selesai.")
         break
     else:
