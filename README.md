@@ -56,7 +56,7 @@ $ pip search nama_package #mencari package tertentu
  # **Contact Me🔥☕** 
  <p id="bottom" align="left"> 
  <a  
- href="https://github.com/MuzakyGood"><img height="30" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a> 
+ href="https://github.com/MuzakyGood"><img height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FGitHub&psig=AOvVaw1At2rmUbGD8dwNC77A0D4D&ust=1716855248464000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDSzKvGrIYDFQAAAAAdAAAAABAE"></a> 
  <a 
  href="https://instagram.com/zach_noland?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instragam" height="30" width="40" /></a> 
  <a href="https://youtube.com/@thegamercraft7806?si=lix5tIpxKI2oxTMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a> 
