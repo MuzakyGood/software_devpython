@@ -56,7 +56,7 @@ $ pip search nama_package #mencari package tertentu
  # **Contact Me🔥☕** 
  <p id="bottom" align="left"> 
  <a  
- href="https://github.com/MuzakyGood"><img height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FGitHub&psig=AOvVaw1At2rmUbGD8dwNC77A0D4D&ust=1716855248464000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDSzKvGrIYDFQAAAAAdAAAAABAE"></a> 
+ href="https://github.com/MuzakyGood"><img height="30" width="40" src="https://images.app.goo.gl/LR6DyjfZef6gbbaq7"></a> 
  <a 
  href="https://instagram.com/zach_noland?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instragam" height="30" width="40" /></a> 
  <a href="https://youtube.com/@thegamercraft7806?si=lix5tIpxKI2oxTMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a> 
