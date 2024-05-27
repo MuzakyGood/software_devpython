@@ -49,14 +49,8 @@ $ pip search nama_package #mencari package tertentu
 - Baca Intruksi Terlebih Dahulu, Sebelum Menjalankan Alat🌸😀
 
 # **Tambahan:**
-- kalian dapat menggunakan python idle yang tersedia di goggle dan dapat di unduh secara gratis
-- atau kalian bisa menggunakan python online di web untuk menjalankan program yang saya buat
+- kalian dapat menggunakan python idle yang tersedia di goggle dan dapat di unduh secara gratis.
+- atau kalian bisa menggunakan python online di web untuk menjalankan program yang saya buat.
+- Saya lebih merekomendasikan menggunakan Visual Studio Code.
 
-<!-- footer --> 
- # **Contact Me🔥☕** 
- <p id="bottom" align="left"> 
- <a  
- href="https://github.com/MuzakyGood"><img height="30" width="40" src="https://images.app.goo.gl/LR6DyjfZef6gbbaq7"></a> 
- <a  href="https://instagram.com/zach_noland?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instragam" height="30" width="40" /></a> 
- <a href="https://youtube.com/@thegamercraft7806?si=lix5tIpxKI2oxTMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a> 
 <hr />
